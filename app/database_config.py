@@ -1,0 +1,5 @@
+database_host = "127.0.0.1"
+database_username = "root"
+database_password = "asdfghjkl;'"
+database1 = "apiTest"
+database2 = "apiTest"
